@@ -8,7 +8,7 @@ class Solution:
                 hm[leftsum] = 1 + hm.get(leftsum, 0)
         
         max_count = 0
-        for key, value in hm.items():
+        for value in hm.values():
             max_count = max(max_count, value)
         
         size = len(wall)
