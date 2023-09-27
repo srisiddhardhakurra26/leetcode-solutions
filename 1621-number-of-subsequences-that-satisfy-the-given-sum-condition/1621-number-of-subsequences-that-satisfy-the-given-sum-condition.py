@@ -4,11 +4,11 @@ class Solution:
         mod = (10**9 + 7)
         res = 0
 
-        right = len(nums) - 1
-        for i, left in enumerate(nums):
-            while (left + nums[right]) > target and i <= right:
+        left, right = 0, len(nums) - 1
+        while left <= right:
+            if nums[left] + nums[right] <= target:
+                res += pow(2, (right - left), mod)
+                left += 1
+            else:
                 right -= 1
-            if i <= right:
-                res += (2**(right - i))
-                res %= mod
-        return res
+        return res % mod
