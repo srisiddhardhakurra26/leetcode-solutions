@@ -1,8 +1,12 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        count = 0
-        for i in range(len(nums)):
-            for j in range(i + 1, len(nums)):
-                if nums[i] == nums[j]:
-                    count += 1
-        return count
+        hm = {}
+        res = 0
+
+        for i in nums:
+            hm[i] = 1 + hm.get(i, 0)
+        
+        for i in hm.values():
+            if i > 1:
+                res += (i * (i - 1)) // 2
+        return res
