@@ -1,10 +1,10 @@
 class Solution:
     def find132pattern(self, nums: List[int]) -> bool:
-        stack = []
+        stack = [] #[value, current_minimum]
         curMin = nums[0]
 
-        for n in nums[1:]:
-            while stack and n >= stack[-1][0]:
+        for n in nums:
+            while stack and stack[-1][0] <= n:
                 stack.pop()
             if stack and n > stack[-1][1]:
                 return True
