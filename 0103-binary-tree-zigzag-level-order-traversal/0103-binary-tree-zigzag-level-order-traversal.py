@@ -7,7 +7,7 @@
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         q = collections.deque()
-        res, level = [], 1
+        res, level = [], 0
         q.append(root)
         if not root:
             return []
@@ -24,7 +24,7 @@ class Solution:
                     q.append(node.right)
             level += 1
             if subres:
-                if not level % 2:
+                if level % 2:
                     res.append(subres)
                 else:
                     res.append(subres[::-1])
