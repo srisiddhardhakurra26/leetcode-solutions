@@ -6,7 +6,7 @@ class Solution:
             if len(subres) == k:
                 res.append(subres.copy())
                 return
-            if len(subres) > k or i > n:
+            if i > n:
                 return 
             
             subres.append(i)
