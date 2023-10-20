@@ -1,17 +1,23 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        nums.sort()
+        res, subres, hm = [], [], {}
 
-        def dfs(subres, remaining_nums):
-            if not remaining_nums:
-                res.append(subres)
+        for n in nums:
+            hm[n] = 1 + hm.get(n, 0)
+        
+        def dfs():
+            if len(subres) == len(nums):
+                res.append(subres.copy())
                 return
+            
+            for n in hm:
+                if hm[n] > 0:
+                    subres.append(n)
+                    hm[n] -= 1
+                    
+                    dfs()
 
-            for i in range(len(remaining_nums)):
-                if i > 0 and remaining_nums[i] == remaining_nums[i - 1]:
-                    continue
-                dfs(subres + [remaining_nums[i]], remaining_nums[:i] + remaining_nums[i+1:])
-
-        dfs([], nums)
+                    subres.pop()
+                    hm[n] += 1
+        dfs()
         return res
