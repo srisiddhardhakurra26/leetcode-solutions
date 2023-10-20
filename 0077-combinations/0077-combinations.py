@@ -3,7 +3,7 @@ class Solution:
         res, subres = [], []
 
         def dfs(i):
-            if len(subres) == k and i >= n:
+            if len(subres) == k:
                 res.append(subres.copy())
                 return
             if len(subres) > k or i > n:
