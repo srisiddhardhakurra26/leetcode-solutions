@@ -10,6 +10,7 @@ class TrieNode:
         for w in word:
             cur = cur.children[w]
             cur.ref -= 1
+        cur.end = False
     
     def addWord(self, word):
         cur = self
@@ -39,7 +40,7 @@ class Solution:
             
             if node.end:
                 res.append(word)
-                node.end = False
+            
                 root.remove(word)
             
             dfs(r + 1, c, node, word)
