@@ -1,19 +1,19 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        nums.sort()
+        res, subres = [], []
+        count = collections.Counter(nums)
 
-        def dfs(subres, remaining_nums):
-            if not remaining_nums:
+        def dfs():
+            if len(subres) == len(nums):
                 res.append(subres.copy())
                 return
-
-            for i in range(len(remaining_nums)):
-                if i > 0 and remaining_nums[i] == remaining_nums[i - 1]:
-                    continue
-                subres.append(remaining_nums[i])
-                dfs(subres, remaining_nums[:i] + remaining_nums[i+1:])
-                subres.pop()
-
-        dfs([], nums)
+            
+            for c in count:
+                if count[c] > 0:
+                    subres.append(c)
+                    count[c] -= 1
+                    dfs()
+                    subres.pop()
+                    count[c] += 1
+        dfs()
         return res
