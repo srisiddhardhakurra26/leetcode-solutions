@@ -9,16 +9,8 @@ class Solution:
             if grid1[r][c] == 0:
                 return False
 
-            grid2[r][c] = 0  # Mark cell as visited in grid2
-            is_sub_island = True  # Initialize as True
-
-            # Recursively check adjacent cells
-            is_sub_island &= dfs(r + 1, c)
-            is_sub_island &= dfs(r - 1, c)
-            is_sub_island &= dfs(r, c + 1)
-            is_sub_island &= dfs(r, c - 1)
-
-            return is_sub_island
+            grid2[r][c] = 0
+            return dfs(r+1, c) & dfs(r-1, c) & dfs(r, c+1) & dfs(r, c-1)
 
         res = 0
         for r in range(rows):
