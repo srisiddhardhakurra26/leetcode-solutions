@@ -1,7 +1,6 @@
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
         rows, cols = len(board), len(board[0])
-        visit = set()
 
         def dfs(r, c):
             if r < 0 or c < 0 or r == rows or c == cols or board[r][c] != "O":
