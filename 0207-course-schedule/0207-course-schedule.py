@@ -1,10 +1,11 @@
 class Solution:
-    def canFinish(self, numCourses: int, pre: List[List[int]]) -> bool:
-        hm = collections.defaultdict(list)
-        for crs, pre in pre:
-            hm[crs].append(pre)
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        hm = {i:[] for i in range(numCourses)}
         visit = set()
 
+        for crs, pre in prerequisites:
+            hm[crs].append(pre)
+        
         def dfs(crs):
             if crs in visit:
                 return False
