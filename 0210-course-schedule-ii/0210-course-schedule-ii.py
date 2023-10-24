@@ -1,27 +1,28 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        cycle, visit = set(), set()
-        hm = {i:[] for i in range(numCourses)}
+        graph = {i: [] for i in range(numCourses)}
+        visit = [0] * numCourses  # 0 represents unvisited, 1 represents visiting, 2 represents visited
+        output = []
+
         for crs, pre in prerequisites:
-            hm[crs].append(pre)
-        res = []
-        
+            graph[crs].append(pre)
+
         def dfs(crs):
-            if crs in cycle:
+            if visit[crs] == 1:
                 return False
-            if crs in visit:
+            if visit[crs] == 2:
                 return True
 
-            cycle.add(crs)
-            for pre in hm[crs]:
+            visit[crs] = 1
+            for pre in graph[crs]:
                 if not dfs(pre):
                     return False
-            cycle.remove(crs)
-            visit.add(crs)
-            res.append(crs)
+            visit[crs] = 2
+            output.append(crs)
             return True
-        
+
         for i in range(numCourses):
-            if not dfs(i):
-                return []
-        return res
+            if visit[i] == 0:
+                if not dfs(i):
+                    return []
+        return output
