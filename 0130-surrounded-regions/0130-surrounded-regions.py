@@ -3,7 +3,7 @@ class Solution:
         rows, cols = len(board), len(board[0])
 
         def dfs(r, c):
-            if r < 0 or c < 0 or r == rows or c == cols or board[r][c] != "O":
+            if r < 0 or c < 0 or r==rows or c == cols or board[r][c] != "O":
                 return
             
             board[r][c] = "T"
@@ -21,8 +21,8 @@ class Solution:
 
         for r in range(rows):
             for c in range(cols):
-                if board[r][c] == "O":
-                    board[r][c] = "X"
                 if board[r][c] == "T":
                     board[r][c] = "O"
+                else:
+                    board[r][c] = "X"
         
