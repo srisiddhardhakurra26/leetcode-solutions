@@ -8,19 +8,19 @@ class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
         q = collections.deque()
         res = []
-        if root:
-            q.append(root)
-        else:
-            return []
+        q.append(root)
 
         while q:
             subres = []
             for i in range(len(q)):
                 node = q.popleft()
+                if not node:
+                    continue
                 subres.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
-                    q.append(node.right)        
-            res.append(max(subres))
-        return res if root else []
+                    q.append(node.right)
+            if subres:       
+                res.append(max(subres))
+        return res
