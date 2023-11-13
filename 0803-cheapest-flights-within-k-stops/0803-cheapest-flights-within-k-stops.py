@@ -6,8 +6,7 @@ class Solution:
         for i in range(k + 1):
             tmpPrice = prices.copy()
             for src, dest, price in flights:
-                if prices[src] == float("inf"):
-                    continue
+               
                 if prices[src] + price < tmpPrice[dest]:
                     tmpPrice[dest] = prices[src] + price
             prices = tmpPrice
