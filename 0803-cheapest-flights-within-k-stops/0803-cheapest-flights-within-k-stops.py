@@ -4,10 +4,9 @@ class Solution:
         prices[src] = 0
 
         for i in range(k + 1):
-            tmpPrice = prices.copy()
-            for src, dest, price in flights:
-               
-                if prices[src] + price < tmpPrice[dest]:
-                    tmpPrice[dest] = prices[src] + price
-            prices = tmpPrice
-        return -1 if prices[dst] == float("inf") else prices[dst]
+            temp = prices.copy()
+            for s, d, p in flights:
+                if prices[s] + p < temp[d]:
+                    temp[d] = prices[s] + p
+            prices = temp
+        return prices[dst] if prices[dst] != float(inf) else -1
