@@ -6,6 +6,7 @@ A collection of my solutions to leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -39,4 +40,20 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
