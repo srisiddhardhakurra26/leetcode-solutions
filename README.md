@@ -39,14 +39,17 @@ A collection of my solutions to leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
