@@ -6,7 +6,6 @@ class Solution:
             if i == len(nums):
                 res.append(subres.copy())
                 return
-            
             subres.append(nums[i])
             dfs(i + 1)
             subres.pop()
