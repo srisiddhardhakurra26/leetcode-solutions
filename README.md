@@ -51,6 +51,7 @@ A collection of my solutions to leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
