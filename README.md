@@ -31,10 +31,12 @@ A collection of my solutions to leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -59,4 +61,8 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
