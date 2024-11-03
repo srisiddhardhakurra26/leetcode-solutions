@@ -35,6 +35,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -81,4 +82,16 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
