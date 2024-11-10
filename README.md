@@ -23,6 +23,7 @@ A collection of my solutions to leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -79,6 +80,7 @@ A collection of my solutions to leetcode problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
@@ -112,4 +114,12 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
