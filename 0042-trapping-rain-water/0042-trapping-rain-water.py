@@ -3,8 +3,8 @@ class Solution:
         left, right = 0, len(height) - 1
         leftMax, rightMax = 0, 0
         res = 0
-        while left < right:
-            if height[left] <= height[right]:
+        while left <= right:
+            if leftMax <= rightMax:
                 val = leftMax - height[left]
                 if val > 0:
                     res += val
