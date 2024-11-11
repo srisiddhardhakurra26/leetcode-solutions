@@ -43,6 +43,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -126,4 +127,8 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
