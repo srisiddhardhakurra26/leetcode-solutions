@@ -59,6 +59,7 @@ A collection of my solutions to leetcode problems
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
