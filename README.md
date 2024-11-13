@@ -41,6 +41,7 @@ A collection of my solutions to leetcode problems
 | [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of my solutions to leetcode problems
 | [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Array
 |  |
@@ -70,6 +72,7 @@ A collection of my solutions to leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
+| [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,14 +126,17 @@ A collection of my solutions to leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Graph
 |  |
