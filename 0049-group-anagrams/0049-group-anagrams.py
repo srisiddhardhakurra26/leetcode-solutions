@@ -1,13 +1,15 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        res = defaultdict(list)
-
+        res = {}
         for s in strs:
-            count = [0] * 26
-
+            freq = [0] * 26
             for c in s:
-                count[ord(c) - ord("a")] += 1
-            
-            res[tuple(count)].append(s)
-        
-        return res.values()
+                freq[ord(c) - ord('a')] += 1
+            tempstr = ","
+            for n in freq:
+                tempstr += str(n)
+                tempstr += ','
+            if tempstr not in res:
+                res[tempstr] = []
+            res[tempstr].append(s)
+        return list(res.values())
