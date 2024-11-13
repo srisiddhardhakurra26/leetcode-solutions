@@ -37,6 +37,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -45,6 +46,7 @@ A collection of my solutions to leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -52,6 +54,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -60,6 +63,7 @@ A collection of my solutions to leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
