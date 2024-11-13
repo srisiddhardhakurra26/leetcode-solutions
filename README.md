@@ -24,6 +24,7 @@ A collection of my solutions to leetcode problems
 | [0144-binary-tree-preorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -88,6 +89,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
@@ -127,10 +129,12 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Trie
 |  |
 | ------- |
