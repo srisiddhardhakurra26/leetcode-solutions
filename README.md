@@ -23,6 +23,7 @@ A collection of my solutions to leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -67,6 +68,7 @@ A collection of my solutions to leetcode problems
 | [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@ A collection of my solutions to leetcode problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -147,4 +150,12 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
