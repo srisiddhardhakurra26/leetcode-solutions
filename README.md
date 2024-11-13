@@ -51,6 +51,7 @@ A collection of my solutions to leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -72,6 +73,7 @@ A collection of my solutions to leetcode problems
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -111,6 +113,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0078-subsets](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0079-word-search) |
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
 ## Bit Manipulation
 |  |
@@ -171,6 +174,7 @@ A collection of my solutions to leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
