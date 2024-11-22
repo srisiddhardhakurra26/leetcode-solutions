@@ -123,6 +123,7 @@ A collection of my solutions to leetcode problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -188,4 +189,12 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
