@@ -84,6 +84,7 @@ A collection of my solutions to leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
 | [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0907-koko-eating-bananas](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,4 +215,8 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
