@@ -10,6 +10,7 @@ A collection of my solutions to leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of my solutions to leetcode problems
 | [0049-group-anagrams](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0227-basic-calculator-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -199,6 +201,7 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0227-basic-calculator-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
 | ------- |
