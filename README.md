@@ -46,6 +46,7 @@ A collection of my solutions to leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of my solutions to leetcode problems
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
 | [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of my solutions to leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of my solutions to leetcode problems
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
