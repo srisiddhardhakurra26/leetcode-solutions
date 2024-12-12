@@ -87,6 +87,7 @@ A collection of my solutions to leetcode problems
 | [0621-task-scheduler](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3654-minimum-array-sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3654-minimum-array-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of my solutions to leetcode problems
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
+| [3654-minimum-array-sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3654-minimum-array-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
