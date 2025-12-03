@@ -59,6 +59,7 @@ A collection of my solutions to leetcode problems
 | [0227-basic-calculator-ii](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ A collection of my solutions to leetcode problems
 | [0042-trapping-rain-water](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0465-optimal-account-balancing](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/0465-optimal-account-balancing) |
+| [1143-longest-common-subsequence](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3654-minimum-array-sum](https://github.com/srisiddhardhakurra26/leetcode-solutions/tree/master/3654-minimum-array-sum) |
 ## Monotonic Stack
 |  |
